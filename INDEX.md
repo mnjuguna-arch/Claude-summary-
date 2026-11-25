@@ -2,6 +2,7 @@
 
 Newest first. Each topic folder holds one file per day (`YYYY-MM-DD.md`) with timestamped entries.
 
+- 2026-11-25 — General — Git repo + auto commit/push rule for handoff summaries → [link](General/2026-11-25.md)
 - 2026-11-25 — Due Diligence Tracker 2026 — Month-on-month forms measures (same-period comparison for the current month) + Month columns from endtime → [link](Due%20Diligence%20Tracker%202026/2026-11-25.md)
 - 2026-11-25 — Training Attendance Tracker — Ported Training Attendance DAX into the Multilingual model (66 new, 44 updated measures, 2 calc cols, typed new IS/eb columns in M) → [link](Training%20Attendance%20Tracker/2026-11-25.md)
 - 2026-11-23 — Due Diligence Tracker 2026 — Studied model; fixed review items 1–6 (forms vs repeat rows, currency-safe amounts, Clients Invested post-DD, DIVIDE), first-DD-form card measures, 2026 YTD disbursed measures, weekly trend measures, static 2026 + weekly targets, team agent measures, agent weekly below-20/20+ and rejection/progressed 45% bands, drafts→Pending M step, M files for user to paste → [link](Due%20Diligence%20Tracker%202026/2026-11-23.md)
