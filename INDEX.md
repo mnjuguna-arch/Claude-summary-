@@ -2,6 +2,7 @@
 
 Newest first. Each topic folder holds one file per day (`YYYY-MM-DD.md`) with timestamped entries.
 
+- 2026-11-26 — Kenya Growth Tracker 2026 — Visit 4 goals recap in pulse check: rating fields missing from 'Kenya Query' dataflow; recap design agreed pending data → [link](Kenya%20Growth%20Tracker%202026/2026-11-26.md)
 - 2026-11-25 — General — Handoff-summary rule moved to global ~/.claude/CLAUDE.md (all projects) → [link](General/2026-11-25.md)
 - 2026-11-25 — General — Git repo + auto commit/push rule for handoff summaries → [link](General/2026-11-25.md)
 - 2026-11-25 — Due Diligence Tracker 2026 — Month-on-month forms measures (same-period comparison for the current month) + Month columns from endtime → [link](Due%20Diligence%20Tracker%202026/2026-11-25.md)
