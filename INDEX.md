@@ -2,6 +2,7 @@
 
 Newest first. Each topic folder holds one file per day (`YYYY-MM-DD.md`) with timestamped entries.
 
+- 2026-11-26 — General — Power BI modeling MCP: added --accepteula arg + PBI_MODELING_MCP_ACCEPT_EULA=true env → [link](General/2026-11-26.md)
 - 2026-11-26 — Kenya Growth Tracker 2026 — Visit 4 recap: dataflow M expands all pulse-check fields; recap measures written, apply after refresh → [link](Kenya%20Growth%20Tracker%202026/2026-11-26.md)
 - 2026-11-26 — Kenya Growth Tracker 2026 — Visit 4 goals recap in pulse check: rating fields missing from 'Kenya Query' dataflow; recap design agreed pending data → [link](Kenya%20Growth%20Tracker%202026/2026-11-26.md)
 - 2026-11-25 — General — Handoff-summary rule moved to global ~/.claude/CLAUDE.md (all projects) → [link](General/2026-11-25.md)
